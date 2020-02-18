@@ -18,4 +18,5 @@
 - Colab: https://colab.research.google.com/github/kaopanboonyuen/Python-Data-Science/blob/master/DataPreparation_onColab_Kao/Lab5_SplitTrainTest.ipynb
 
 
-### Homework (Dataset): https://github.com/kaopanboonyuen/Python-Data-Science/raw/master/DataPreparation_onColab_Kao/titanic_training_dataset.csv
+### Homework (Dataset): 
+- https://github.com/kaopanboonyuen/Python-Data-Science/raw/master/DataPreparation_onColab_Kao/titanic_training_dataset.csv
