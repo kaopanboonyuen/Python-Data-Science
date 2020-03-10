@@ -42,6 +42,9 @@
 ### 6 Market Basket (Association Rule Mining)
 - Colab: https://colab.research.google.com/github/kaopanboonyuen/Python-Data-Science/blob/master/ML1/code/6_Market_Basket_Intro.ipynb
 
+### 7 Grid Search
+- Colab: https://colab.research.google.com/github/kaopanboonyuen/Python-Data-Science/blob/master/ML1/code/7_Grid_Search.ipynb
+
 ### (Exercise): Logistic Regression
 - Colab: https://colab.research.google.com/github/kaopanboonyuen/Python-Data-Science/blob/master/ML1/exercise/Logistic_Regression_(AI_for_Engineer_2_2020).ipynb
 
