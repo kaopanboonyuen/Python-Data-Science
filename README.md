@@ -35,7 +35,6 @@
 ### 4 Neural Network (Dense, Fully Connected Concepts)
 - Colab: https://colab.research.google.com/github/kaopanboonyuen/Python-Data-Science/blob/master/ML1/code/4_Neural-Network.ipynb
 
-
 ### 5 K-Means Clustering
 - Colab: https://colab.research.google.com/github/kaopanboonyuen/Python-Data-Science/blob/master/ML1/code/5_K-Means-Clustering.ipynb
 
@@ -47,4 +46,29 @@
 
 ### (Exercise): Logistic Regression
 - Colab: https://colab.research.google.com/github/kaopanboonyuen/Python-Data-Science/blob/master/ML1/exercise/Logistic_Regression_(AI_for_Engineer_2_2020).ipynb
+
+---------------
+
+## Machine Learning 2 
+
+### 1 K-Means Clustering
+- Colab: https://colab.research.google.com/github/kaopanboonyuen/Python-Data-Science/blob/master/ML2/K_Means_Clustering_withColab.ipynb
+
+### 2 DBSCAN Clustering
+- Colab: https://colab.research.google.com/github/kaopanboonyuen/Python-Data-Science/blob/master/ML2/DBSCAN_(Simple_Version)_Clustering_withColab.ipynb
+
+### 3 Association Rules Mining
+- Colab: https://colab.research.google.com/github/kaopanboonyuen/Python-Data-Science/blob/master/ML2/Market_Basket_Intro_v2_withColab.ipynb
+
+### 4 Recommender Systems using User-based and Item-based Collaborative Filtering and SVD algorithms
+- Colab: https://colab.research.google.com/github/kaopanboonyuen/Python-Data-Science/blob/master/ML2/Advanced_Recommender_Systems_v3_withColab.ipynb
+
+### 5 Recommender Systems using Deep Learning
+- Colab: https://colab.research.google.com/github/kaopanboonyuen/Python-Data-Science/blob/master/ML2/(DL)_Advanced_Recommender_Systems_usingDeepLearning_withColab.ipynb
+
+### 6 Grid and Random Search
+- Colab: https://colab.research.google.com/github/kaopanboonyuen/Python-Data-Science/blob/master/ML2/Grid_Search_withColab.ipynb
+
+
+
 
