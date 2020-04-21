@@ -1,0 +1,197 @@
+{
+  "author": {
+    "email": "oudycovid@gmail.com",
+    "name": "กรมควบคุมโรค"
+  },
+  "description": "รายงานผู้ป่วยยืนยันประจำวัน จาก กรมควบคุมโรค\r\n\r\nสามารถติดตามสถานการณ์ได้ที่ https://covid19.th-stat.com/\r\n\r\nOpen API สำหรับนักพัฒนา https://covid19.th-stat.com/th/api",
+  "keywords": [
+    "COVID-19",
+    "COVID19",
+    "สาธารณสุข",
+    "โรคติดต่อ"
+  ],
+  "license": {
+    "title": "DGA Open Government License",
+    "type": "ogl"
+  },
+  "name": "covid-19-daily",
+  "resources": [
+    {
+      "description": "ข้อมูลอัพเดทรายวัน",
+      "format": "XLSX",
+      "name": "covid-19-daily",
+      "path": "covid-19-daily.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "no",
+            "type": "number"
+          },
+          {
+            "name": "age",
+            "type": "string"
+          },
+          {
+            "name": "sex",
+            "type": "string"
+          },
+          {
+            "name": "nationality",
+            "type": "string"
+          },
+          {
+            "name": "Province of isolation",
+            "type": "string"
+          },
+          {
+            "name": "Notification date",
+            "type": "datetime"
+          },
+          {
+            "name": "Announce Date",
+            "type": "datetime"
+          },
+          {
+            "name": "Province of onset",
+            "type": "string"
+          },
+          {
+            "name": "District of onset",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://opendata.data.go.th/dataset/8a956917-436d-4afd-a2d4-59e4dd8e906e/resource/93f74e67-6f76-4b25-8f5d-b485083100b6/download/20200419_pm.xlsx",
+          "title": "covid-19-daily"
+        }
+      ],
+      "title": "covid-19-daily"
+    },
+    {
+      "description": "คำอธิบายชุดข้อมูล",
+      "format": "CSV",
+      "name": "covid-19-daily-data-dict",
+      "path": "covid-19-daily-data-dict.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "attribute",
+            "type": "string"
+          },
+          {
+            "name": "data_type",
+            "type": "string"
+          },
+          {
+            "name": "description",
+            "type": "string"
+          },
+          {
+            "name": "data_scope",
+            "type": "string"
+          },
+          {
+            "name": "data_size",
+            "type": "string"
+          },
+          {
+            "name": "mandatory_field",
+            "type": "string"
+          },
+          {
+            "name": "characteristic",
+            "type": "string"
+          },
+          {
+            "name": "data_format",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://opendata.data.go.th/dataset/8a956917-436d-4afd-a2d4-59e4dd8e906e/resource/d39427a3-6837-4653-ae49-8fbbb5b6d765/download/covid-19-daily_data_dictionary.csv",
+          "title": "covid-19-daily_data_dict"
+        }
+      ],
+      "title": "covid-19-daily_data_dict"
+    },
+    {
+      "description": "ยอดผู้ป่วยสะสมรายจังหวัด",
+      "format": "XLSX",
+      "name": "covid-19-accumulate",
+      "path": "covid-19-accumulate.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "Province",
+            "type": "string"
+          },
+          {
+            "name": "Count of no",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://opendata.data.go.th/dataset/8a956917-436d-4afd-a2d4-59e4dd8e906e/resource/5c91fc06-72c4-40fd-b426-bf2dfb9b27f4/download/covid-19-accumulate.xlsx",
+          "title": "covid-19-accumulate"
+        }
+      ],
+      "title": "covid-19-accumulate"
+    },
+    {
+      "description": "คำอธิบายชุดข้อมูล",
+      "format": "CSV",
+      "name": "covid-19-accumulate-data-dictionary",
+      "path": "covid-19-accumulate-data-dictionary.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "attribute",
+            "type": "string"
+          },
+          {
+            "name": "data_type",
+            "type": "string"
+          },
+          {
+            "name": "description",
+            "type": "string"
+          },
+          {
+            "name": "data_scope",
+            "type": "string"
+          },
+          {
+            "name": "data_size",
+            "type": "string"
+          },
+          {
+            "name": "mandatory_field",
+            "type": "string"
+          },
+          {
+            "name": "characteristic",
+            "type": "string"
+          },
+          {
+            "name": "data_format",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://opendata.data.go.th/dataset/8a956917-436d-4afd-a2d4-59e4dd8e906e/resource/323b50ef-5a71-4b10-b31f-2cb61d151790/download/covid-19-accumulate_data_dictionary.csv",
+          "title": "covid-19-accumulate_data_dictionary"
+        }
+      ],
+      "title": "covid-19-accumulate_data_dictionary"
+    }
+  ],
+  "title": "รายงาน COVID-19 ประจำวัน"
+}

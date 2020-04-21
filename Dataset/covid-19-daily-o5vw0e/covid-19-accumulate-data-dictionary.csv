@@ -1,0 +1,10 @@
+"attribute
+","data_type
+","description
+","data_scope
+","data_size
+",mandatory_field,"characteristic
+","data_format
+"
+Province,Text,ชื่อจังหวัด,,,,,
+Count of no,numeric/int,ยอดรวมผู้ป่วยสะสม,,,,,

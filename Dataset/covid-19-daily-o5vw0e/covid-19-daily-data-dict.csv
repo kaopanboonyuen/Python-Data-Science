@@ -1,0 +1,17 @@
+"attribute
+","data_type
+","description
+","data_scope
+","data_size
+",mandatory_field,"characteristic
+","data_format
+"
+No,numeric/float,รหัสผู้ป่วย,,,,,
+Age,numeric/int,อายุของผู้ป่วย,,,,,
+Sex,Text,เพศผู้ป่วย,,,,,
+Nationality,Text,สัญชาติ,,,,,
+Province of isolation,Text,จังหวัดที่รักษาตัว,,,,,
+Notification Date,Date,วันที่กระทรวงได้รับรายงาน,,,,,
+Announce Date,Date,วันที่แถลงข่าว,,,,,
+Province of onset,Text,จังหวัดที่เริ่มพบว่าตัวเองมีอาการป่วย,,,,,
+District of onset,Text,อำเภอที่เริ่มพบว่าตัวเองมีอาการป่วย,,,,,
