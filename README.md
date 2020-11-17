@@ -76,8 +76,11 @@
 ### 1 (TF2) Convolutional Neural Network (CIFAR10)
 - Colab: https://colab.research.google.com/github/kaopanboonyuen/Python-Data-Science/blob/master/TF2/ConvNet_with_Cifar10_TF2_version.ipynb
 
-### 2 (TF2) New York Stock Exchange Stock Price Prediction with Long Short-Term Memory (LSTM)
+### 2.1 (TF2) New York Stock Exchange Stock Price Prediction with Long Short-Term Memory (LSTM)
 - Colab: https://colab.research.google.com/github/kaopanboonyuen/Python-Data-Science/blob/master/TF2/LSTM_Stock_TF2_version.ipynb
+
+### 2.1 (TF2 - Short Version) New York Stock Exchange Stock Price Prediction with Long Short-Term Memory (LSTM)
+- Colab: https://colab.research.google.com/github/kaopanboonyuen/Python-Data-Science/blob/master/TF2/LSTM_Stock_TF2_version_Short.ipynb
 
 
 
